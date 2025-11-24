@@ -31,7 +31,7 @@ It identifies user frustration around cleaning up conversations and proposes:
 - UX improvements to reduce clutter and improve flow  
 
 This feature aims to reduce manual work, improve consistency, and help users maintain a cleaner workspace.  
-Based on the analysis and mocks included in the document.
+Based on the analysis and mocks on pages 2-3 included in the document.
 
 ---
 
@@ -48,7 +48,7 @@ The proposal includes:
 - Flow diagrams, screens, and mockups  
 - MVP scope + future enhancements  
 
-Mockups on pages 5–11 show event creation screens, chat countdown headers, RSVP cards, and expiry actions. :contentReference[oaicite:3]{index=3}
+Mockups on pages 5–10 show event creation screens, chat countdown headers, RSVP cards, and expiry actions.
 
 ---
 
@@ -58,10 +58,7 @@ Mockups on pages 5–11 show event creation screens, chat countdown headers, RSV
 PRDs/
 │
 ├── WhatsApp_Chat_Management_Improvements_PRD.pdf
-├── WhatsApp_Temporary_Group_Events_PRD.pdf
-│
-├── assets/
-│   └── screenshots/                # for mockups & visuals
+├── WhatsApp_Temporary_Group_Events_PRD.pd
 │
 └── README.md
 ```
