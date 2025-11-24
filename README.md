@@ -31,7 +31,7 @@ It identifies user frustration around cleaning up conversations and proposes:
 - UX improvements to reduce clutter and improve flow  
 
 This feature aims to reduce manual work, improve consistency, and help users maintain a cleaner workspace.  
-Based on the analysis and mocks included in the document. :contentReference[oaicite:2]{index=2}
+Based on the analysis and mocks included in the document.
 
 ---
 
