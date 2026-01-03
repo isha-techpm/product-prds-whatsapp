@@ -87,7 +87,7 @@ PRDs/
 ---
 
 ## 👩‍💻 Author  
-**Isha**  
+**Essha Jha**  
 Product Manager • Data Analyst • AI Innovation Enthusiast  
 Focused on building user-centric, intuitive, and responsible digital experiences.
 
